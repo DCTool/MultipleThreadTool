@@ -1,5 +1,5 @@
 {
-    "version": "1.1.2",
+    "version": "1.0.0.0",
     "url": "https://github.com/user/repo/releases/download/v1.1.0/app-update.zip",
     "changelog": "Cập nhật giao diện và sửa lỗi.",
     "mandatory": true
